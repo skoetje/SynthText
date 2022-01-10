@@ -1,4 +1,9 @@
-# SynthText
+# DutchSynthText
+
+This repo is a fork from [SynthText](https://github.com/ankush-me/SynthText), to create a Dutch dataset.
+
+
+
 Code for generating synthetic text images as described in ["Synthetic Data for Text Localisation in Natural Images", Ankush Gupta, Andrea Vedaldi, Andrew Zisserman, CVPR 2016](https://www.robots.ox.ac.uk/~vgg/data/scenetext/).
 
 
